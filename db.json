@@ -20,7 +20,9 @@
         "register",
         "registerClick",
         "withdrawClick",
-        "withdrawOrderSuccess"
+        "withdrawOrderSuccess",
+        "rechargeAllMoney",
+        "withdrawAllMoney"
       ],
       "ID": [
         "iofkdy",
@@ -34,7 +36,9 @@
         "64uf1n",
         "bx18x8",
         "d8qy1e",
-        "al6n4r"
+        "al6n4r",
+        "3hsash",
+        "j572gu"
       ]
     }
   }
